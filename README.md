@@ -1,6 +1,6 @@
 # 🚀 YOLOv9 ONNX & RKNN Deployment
 
-[![Platform](https://img.shields.io/badge/platform-RK3588-orange)](https://www.rock-chips.com/)
+[![Platform](https://img.shields.io/badge/platform-RK3568-orange)](https://www.rock-chips.com/)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
 This repository provides end-to-end scripts to:
@@ -10,6 +10,10 @@ This repository provides end-to-end scripts to:
 
 > ⚠️ **Note**: Pre-trained model weights are **NOT included** due to size and license. Please download them from the official source.
 
+##  Models used in the project DownLoad
+```bash
+https://pan.quark.cn/s/4f35e2bb44aa
+```
 ---
 ## 📁 Project Structure
 ```bash
@@ -86,6 +90,7 @@ If you encounter any issues, need the pre-converted model files (`.onnx`, `.rknn
 > I'll get back to you as soon as possible.
 
 *(Note: Model weights like `yolov9-s.pt` must be downloaded from the [official YOLOv9 repo](https://github.com/WongKinYiu/yolov9) due to license restrictions.)*
+
 
 ## 🙏 Acknowledgements
 
